@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "College Management System Basic\\College Management System Basic.vbproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "New Profile (1)",
+    "Projects": []
+  },
+  {
+    "Name": "New Profile (2)",
+    "Projects": [
+      {
+        "Path": "College Management System Basic\\College Management System Basic.vbproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+D:\VB.NET\College Management System Basic\College Management System Basic\bin\Debug\College Management System Basic.pdb
+D:\VB.NET\College Management System Basic\College Management System Basic\bin\Debug\College Management System Basic.xml
+D:\VB.NET\College Management System Basic\College Management System Basic\bin\Debug\Guna.UI.dll
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College Management System Basic.vbproj.AssemblyReference.cache
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Login.resources
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Resources.resources
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Student.resources
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Teachers.resources
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College Management System Basic.vbproj.GenerateResource.cache
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College Management System Basic.vbproj.CoreCompileInputs.cache
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College .5841FEBE.Up2Date
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College Management System Basic.xml
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College Management System Basic.pdb
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Form1.resources
+D:\VB.NET\College Management System Basic\College Management System Basic\bin\Debug\College Management System Basic.exe
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College Management System Basic.exe
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Departments.resources
+D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Fees.resources

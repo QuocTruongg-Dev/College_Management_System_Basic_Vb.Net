@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB.NET\\College Management System Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|d:\\vb.net\\college management system basic\\college management system basic\\fees.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:college management system basic\\fees.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Fees.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Fees.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Teachers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Teachers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Teachers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Teachers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Departments.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Departments.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Departments.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Departments.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5289DD0B-2978-4D75-8BE8-FE39DC86CC0F}|College Management System Basic\\College Management System Basic.vbproj|solutionrelative:College Management System Basic\\Login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fees.vb",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Fees.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Fees.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Fees.vb",
+              "RelativeToolTip": "College Management System Basic\\Fees.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T08:42:13.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fees.vb [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Fees.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Fees.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Fees.vb [Design]",
+              "RelativeToolTip": "College Management System Basic\\Fees.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T08:39:06.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Form1.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Form1.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Form1.vb [Design]",
+              "RelativeToolTip": "College Management System Basic\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T08:37:10.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teachers.vb",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Teachers.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Teachers.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Teachers.vb",
+              "RelativeToolTip": "College Management System Basic\\Teachers.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T07:49:58.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teachers.vb [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Teachers.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Teachers.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Teachers.vb [Design]",
+              "RelativeToolTip": "College Management System Basic\\Teachers.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T10:03:11.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.vb",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Student.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Student.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Student.vb",
+              "RelativeToolTip": "College Management System Basic\\Student.vb",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv3UAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T07:49:44.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.vb [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Student.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Student.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Student.vb [Design]",
+              "RelativeToolTip": "College Management System Basic\\Student.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-05T07:49:42.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Departments.vb [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Departments.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Departments.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Departments.vb [Design]",
+              "RelativeToolTip": "College Management System Basic\\Departments.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T16:07:36.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Departments.vb",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Departments.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Departments.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Departments.vb",
+              "RelativeToolTip": "College Management System Basic\\Departments.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T15:35:41.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Login.vb",
+              "RelativeDocumentMoniker": "College Management System Basic\\Login.vb",
+              "ToolTip": "D:\\VB.NET\\College Management System Basic\\College Management System Basic\\Login.vb [Design]",
+              "RelativeToolTip": "College Management System Basic\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T09:18:06.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
