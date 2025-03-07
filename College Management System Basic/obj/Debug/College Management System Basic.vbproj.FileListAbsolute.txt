@@ -16,3 +16,23 @@ D:\VB.NET\College Management System Basic\College Management System Basic\bin\De
 D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College Management System Basic.exe
 D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Departments.resources
 D:\VB.NET\College Management System Basic\College Management System Basic\obj\Debug\College_Management_System_Basic.Fees.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\bin\Debug\College Management System Basic.exe
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\bin\Debug\College Management System Basic.pdb
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\bin\Debug\College Management System Basic.xml
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\bin\Debug\Guna.UI.dll
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College Management System Basic.vbproj.AssemblyReference.cache
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Departments.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Fees.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Login.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Resources.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Student.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Teachers.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College Management System Basic.vbproj.GenerateResource.cache
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College Management System Basic.vbproj.CoreCompileInputs.cache
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College .5841FEBE.Up2Date
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College Management System Basic.exe
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College Management System Basic.xml
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College Management System Basic.pdb
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Dashboard.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Loading.resources
+D:\College Management System\College_Management_System_Basic_Vb.Net\College Management System Basic\obj\Debug\College_Management_System_Basic.Admin.resources

@@ -1,6 +1,8 @@
 ﻿Imports System.Data.SqlClient
+Imports System.Drawing.Printing
 
 Public Class Student
+    Private printDoc As New PrintDocument()
     Private Sub Departments_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         LoadData()
         LoadGenders()
@@ -11,6 +13,8 @@ Public Class Student
         GenderST.Items.Clear()
         GenderST.Items.Add("Male")
         GenderST.Items.Add("Female")
+        GenderFilter.Items.Add("Male")
+        GenderFilter.Items.Add("Female")
     End Sub
 
     Private Sub LoadDepartments()
@@ -156,5 +160,71 @@ Public Class Student
         End If
     End Sub
 
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        Dim adapter As New SqlDataAdapter()
+        NoDueList(adapter)
+    End Sub
 
+    Private Sub NoDueList(adapter As SqlDataAdapter)
+        Using Con As New SqlConnection("Data Source=LAPTOP-H9PTCLCF\SQLEXPRESS; Initial Catalog=CollegeVbOb; Integrated Security=True; Encrypt=True; TrustServerCertificate=True")
+            Con.Open()
+            Dim query = "Select * from StudentTbl where StFees >= 100000"
+            Dim cmd As New SqlCommand(query, Con)
+            adapter.SelectCommand = cmd
+            Dim ds As DataSet = New DataSet
+            adapter.Fill(ds)
+            GunaDataGridView1.DataSource = ds.Tables(0)
+            Con.Close()
+        End Using
+    End Sub
+
+    Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
+        LoadData()
+    End Sub
+
+    Private Sub Label10_Click(sender As Object, e As EventArgs) Handles Label10.Click
+        Dim Obj = New Teachers()
+        Obj.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Label11_Click(sender As Object, e As EventArgs) Handles Label11.Click
+        Dim Obj = New Departments()
+        Obj.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Label12_Click(sender As Object, e As EventArgs) Handles Label12.Click
+        Dim Obj = New Fees()
+        Obj.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Label13_Click(sender As Object, e As EventArgs) Handles Label13.Click
+        Dim Obj = New Dashboard()
+        Obj.Show()
+        Me.Hide()
+    End Sub
+
+    'reload ra theo gender for student
+    Private Sub Gender_SelectedIndexChanged(sender As Object, e As EventArgs) Handles GenderFilter.SelectedIndexChanged
+        Dim gender As String = GenderFilter.SelectedItem.ToString() ' Lấy giá trị được chọn từ ComboBox
+
+        Try
+            Using con As New SqlConnection("Data Source=LAPTOP-H9PTCLCF\SQLEXPRESS; Initial Catalog=CollegeVbOb; Integrated Security=True; Encrypt=True; TrustServerCertificate=True")
+                con.Open()
+
+                Dim cmd As New SqlCommand("SELECT * FROM StudentTbl WHERE StGender = @gender", con)
+                cmd.Parameters.AddWithValue("@gender", gender)
+
+                Using da As New SqlDataAdapter(cmd)
+                    Dim table As New DataTable()
+                    da.Fill(table)
+                    GunaDataGridView1.DataSource = table
+                End Using
+            End Using
+        Catch ex As Exception
+            MessageBox.Show("Lỗi: " & ex.Message)
+        End Try
+    End Sub
 End Class

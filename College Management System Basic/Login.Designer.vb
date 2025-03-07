@@ -26,8 +26,8 @@ Partial Class Login
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.UsernameTb = New System.Windows.Forms.TextBox()
+        Me.PasswordTb = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
@@ -46,7 +46,7 @@ Partial Class Login
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 19.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(85, 33)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(155, 31)
+        Me.Label1.Size = New System.Drawing.Size(185, 38)
         Me.Label1.TabIndex = 2
         Me.Label1.Text = "User Login"
         '
@@ -64,25 +64,26 @@ Partial Class Login
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 19.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(578, 100)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(73, 31)
+        Me.Label2.Size = New System.Drawing.Size(88, 38)
         Me.Label2.TabIndex = 6
         Me.Label2.Text = "VKU"
         '
-        'TextBox1
+        'UsernameTb
         '
-        Me.TextBox1.Location = New System.Drawing.Point(500, 202)
-        Me.TextBox1.Multiline = True
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(238, 32)
-        Me.TextBox1.TabIndex = 7
+        Me.UsernameTb.Location = New System.Drawing.Point(500, 202)
+        Me.UsernameTb.Multiline = True
+        Me.UsernameTb.Name = "UsernameTb"
+        Me.UsernameTb.Size = New System.Drawing.Size(238, 32)
+        Me.UsernameTb.TabIndex = 7
         '
-        'TextBox2
+        'PasswordTb
         '
-        Me.TextBox2.Location = New System.Drawing.Point(500, 254)
-        Me.TextBox2.Multiline = True
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(238, 32)
-        Me.TextBox2.TabIndex = 8
+        Me.PasswordTb.Location = New System.Drawing.Point(500, 254)
+        Me.PasswordTb.Multiline = True
+        Me.PasswordTb.Name = "PasswordTb"
+        Me.PasswordTb.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
+        Me.PasswordTb.Size = New System.Drawing.Size(238, 32)
+        Me.PasswordTb.TabIndex = 8
         '
         'Button1
         '
@@ -101,7 +102,7 @@ Partial Class Login
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(323, 202)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(125, 26)
+        Me.Label3.Size = New System.Drawing.Size(156, 32)
         Me.Label3.TabIndex = 10
         Me.Label3.Text = "UserName"
         '
@@ -111,7 +112,7 @@ Partial Class Login
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(323, 254)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(116, 26)
+        Me.Label4.Size = New System.Drawing.Size(146, 32)
         Me.Label4.TabIndex = 11
         Me.Label4.Text = "Password"
         '
@@ -121,7 +122,7 @@ Partial Class Login
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.Location = New System.Drawing.Point(580, 398)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(57, 20)
+        Me.Label5.Size = New System.Drawing.Size(67, 25)
         Me.Label5.TabIndex = 12
         Me.Label5.Text = "Reset"
         '
@@ -166,8 +167,8 @@ Partial Class Login
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.TextBox2)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.PasswordTb)
+        Me.Controls.Add(Me.UsernameTb)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.Panel1)
@@ -190,8 +191,8 @@ Partial Class Login
     Friend WithEvents Panel1 As Panel
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents Label2 As Label
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents UsernameTb As TextBox
+    Friend WithEvents PasswordTb As TextBox
     Friend WithEvents Button1 As Button
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label

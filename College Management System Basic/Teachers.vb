@@ -156,5 +156,21 @@ Public Class Teachers
         End If
     End Sub
 
+    Private Sub Label10_Click(sender As Object, e As EventArgs) Handles Label10.Click
+        Dim Obj = New Teachers()
+        Obj.Show()
+        Me.Hide()
+    End Sub
 
+    Private Sub Label11_Click(sender As Object, e As EventArgs) Handles Label11.Click
+        Dim Obj = New Departments()
+        Obj.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Label12_Click(sender As Object, e As EventArgs) Handles Label12.Click
+        Dim Obj = New Student()
+        Obj.Show()
+        Me.Hide()
+    End Sub
 End Class
